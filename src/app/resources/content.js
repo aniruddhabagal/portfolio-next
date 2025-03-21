@@ -119,6 +119,16 @@ const about = {
       },
     ],
   },
+  studies: {
+    display: true,
+    title: "Education",
+    institutions: [
+      {
+        name: "Vidyavardhaka College of Engineering",
+        description: "B.E. in Computer Science & Engineering (2020-2024)",
+      }
+    ],
+  },
   technical: {
     display: true,
     title: "Technical Skills & Achievements",
