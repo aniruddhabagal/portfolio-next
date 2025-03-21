@@ -1,4 +1,3 @@
-
 import { InlineCode } from "@/once-ui/components";
 
 const person = {
@@ -9,7 +8,7 @@ const person = {
   },
   role: "Full Stack Developer",
   avatar: "/images/avatar.jpg",
-  location: "India",
+  location: "Asia/Kolkata",
   languages: ["English", "Hindi"],
 };
 
@@ -18,7 +17,8 @@ const newsletter = {
   title: <>Subscribe to {person.firstName}'s Newsletter</>,
   description: (
     <>
-      I occasionally write about technology, AI innovation, and share insights on community building and development.
+      I occasionally write about technology, AI innovation, and share insights
+      on community building and development.
     </>
   ),
 };
@@ -48,7 +48,8 @@ const home = {
   headline: <>Full Stack Developer & Community Builder</>,
   subline: (
     <>
-      I'm a tech enthusiast and problem solver at heart, driven by the intersection of AI innovation and community impact.
+      I'm a tech enthusiast and problem solver at heart, driven by the
+      intersection of AI innovation and community impact.
     </>
   ),
 };
@@ -72,7 +73,13 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        I'm a tech enthusiast and problem solver at heart, driven by the intersection of AI innovation and community impact. My journey spans from crafting scalable full-stack applications to pioneering AI-powered solutions that push the boundaries of what's possible. With a foundation in computer science and a passion for education, I've dedicated myself to building technology that makes complex systems more accessible and efficient.
+        I'm a tech enthusiast and problem solver at heart, driven by the
+        intersection of AI innovation and community impact. My journey spans
+        from crafting scalable full-stack applications to pioneering AI-powered
+        solutions that push the boundaries of what's possible. With a foundation
+        in computer science and a passion for education, I've dedicated myself
+        to building technology that makes complex systems more accessible and
+        efficient.
       </>
     ),
   },
@@ -87,8 +94,8 @@ const about = {
         achievements: [
           "Selected as one of 350 Google Developer Student Club Leads across India",
           "Led technical workshops and mentored 400+ students in DSA and modern tech stacks",
-          "Organized multiple community events and developer meetups"
-        ]
+          "Organized multiple community events and developer meetups",
+        ],
       },
       {
         company: "GitHub Campus Expert",
@@ -97,8 +104,8 @@ const about = {
         achievements: [
           "Fostering open-source collaboration and knowledge sharing",
           "Built and managed the Open Source Lab community at VVCE",
-          "Active contributor to open-source projects and documentation"
-        ]
+          "Active contributor to open-source projects and documentation",
+        ],
       },
       {
         company: "UiPath",
@@ -107,9 +114,9 @@ const about = {
         achievements: [
           "Selected among 82 champions across 5 countries",
           "Mentored students in modern web technologies and cloud computing",
-          "Regular speaker at tech conferences and community events"
-        ]
-      }
+          "Regular speaker at tech conferences and community events",
+        ],
+      },
     ],
   },
   technical: {
@@ -118,20 +125,24 @@ const about = {
     skills: [
       {
         title: "Full Stack Development",
-        description: "Experienced in modern JavaScript frameworks and cloud technologies, building scalable applications and SaaS platforms."
+        description:
+          "Experienced in modern JavaScript frameworks and cloud technologies, building scalable applications and SaaS platforms.",
       },
       {
         title: "AI/ML Development",
-        description: "Created Genius - a comprehensive AI SaaS platform with multi-modal generation capabilities. Pioneered AI-powered content generation systems improving efficiency by 40%."
+        description:
+          "Created Genius - a comprehensive AI SaaS platform with multi-modal generation capabilities. Pioneered AI-powered content generation systems improving efficiency by 40%.",
       },
       {
         title: "System Architecture",
-        description: "Developed enterprise-grade evaluation systems handling thousands of concurrent users. Built innovative ML-based extensions for false information detection."
+        description:
+          "Developed enterprise-grade evaluation systems handling thousands of concurrent users. Built innovative ML-based extensions for false information detection.",
       },
       {
         title: "Community Building",
-        description: "Founded and grew multiple technical communities, organized 20+ workshops, and mentored 400+ students in various technologies."
-      }
+        description:
+          "Founded and grew multiple technical communities, organized 20+ workshops, and mentored 400+ students in various technologies.",
+      },
     ],
   },
 };
@@ -152,7 +163,7 @@ const gallery = {
   label: "Gallery",
   title: "Community Events & Tech Workshops",
   description: `Moments from technical workshops and community events by ${person.name}`,
-  images: []
+  images: [],
 };
 
 export { person, social, newsletter, home, about, blog, work, gallery };
