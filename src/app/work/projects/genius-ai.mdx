@@ -1,0 +1,51 @@
+
+---
+title: "Genius AI Platform"
+publishedAt: "2023-12-15"
+summary: "A comprehensive AI SaaS platform with multi-modal generation capabilities"
+featured: true
+image: "/images/projects/genius-ai.png"
+github: "https://github.com/yourusername/genius-ai"
+link: "https://genius-ai.vercel.app/"
+images:
+  [
+    "/images/projects/genius-ai.png",
+  ]
+tags: ["react", "nextjs", "ai", "typescript"]
+---
+
+## Genius AI Platform
+
+Genius is a comprehensive AI SaaS platform that I built with modern technologies. It offers multiple AI generation capabilities including:
+
+- Conversation (ChatGPT-like functionality)
+- Image generation
+- Video generation
+- Music generation
+- Code generation
+
+### Key Features
+
+- **Multi-modal AI generation**: Text, image, video, music, and code
+- **User authentication**: Secure login with credentials
+- **Stripe integration**: Subscription-based pricing model
+- **Free tier limitations**: Reasonable usage limits for free users
+- **Premium subscriptions**: Expanded capabilities for paying customers
+
+### Technology Stack
+
+- **Frontend**: Next.js 14, React, Tailwind CSS, ShadcN UI
+- **Backend**: Node.js with Next.js API routes
+- **Database**: PostgreSQL with Prisma ORM
+- **Authentication**: Clerk Auth
+- **Payments**: Stripe
+- **AI APIs**: OpenAI, Replicate
+- **Deployment**: Vercel
+
+### Challenges & Solutions
+
+One of the main challenges was implementing a reliable rate limiting system that would track usage across different AI services while maintaining good performance. I solved this by creating a centralized middleware that efficiently tracked API calls and user quotas.
+
+### Results
+
+The platform has attracted over 1,000 users in its first month, with a 5% conversion rate to paid subscriptions. Users have generated over 50,000 AI outputs across all modalities.

@@ -132,6 +132,20 @@ const about = {
       }
     ],
   },
+  work: {
+    label: "Projects",
+    title: "My Projects",
+    description: "Explore my recent work and projects",
+    tableOfContent: {
+      display: true,
+    },
+    github: {
+      display: true,
+    },
+    projects: {
+      display: true,
+    },
+  },
   technical: {
     display: true,
     title: "Technical Skills & Achievements",
