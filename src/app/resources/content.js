@@ -96,16 +96,18 @@ const about = {
           "Led technical workshops and mentored 400+ students in DSA and modern tech stacks",
           "Organized multiple community events and developer meetups",
         ],
+        images: []
       },
       {
-        company: "GitHub Campus Expert",
-        role: "Technical Community Leader",
+        company: "GitHub",
+        role: "Campus Expert",
         timeframe: "2022 - Present",
         achievements: [
           "Fostering open-source collaboration and knowledge sharing",
           "Built and managed the Open Source Lab community at VVCE",
           "Active contributor to open-source projects and documentation",
         ],
+        images: []
       },
       {
         company: "UiPath",
@@ -116,7 +118,18 @@ const about = {
           "Mentored students in modern web technologies and cloud computing",
           "Regular speaker at tech conferences and community events",
         ],
+        images: []
       },
+    ],
+  },
+  studies: {
+    display: true,
+    title: "Education",
+    institutions: [
+      {
+        name: "Vidyavardhaka College of Engineering",
+        description: "B.E. in Computer Science & Engineering (2020-2024)",
+      }
     ],
   },
   technical: {
