@@ -1,0 +1,43 @@
+Full Stack Developer | GitHub Campus Expert | Community Builder 🚀
+
+I'm a tech enthusiast and problem solver at heart, driven by the intersection of AI innovation and community impact. My journey spans from crafting scalable full-stack applications to pioneering AI-powered solutions that push the boundaries of what's possible. With a foundation in computer science and a passion for education, I've dedicated myself to building technology that makes complex systems more accessible and efficient.
+
+🎓 Background & Expertise:
+- Full-stack development with modern JavaScript frameworks and cloud technologies
+- Community leadership and technical education advocate
+- Open source contributor and mentor
+- Experienced in building SaaS platforms and enterprise-grade applications
+
+🌟 Leadership & Community Impact:
+- Selected as one of 350 Google Developer Student Club Leads across India
+- GitHub Campus Expert fostering open-source collaboration and knowledge sharing
+- UiPath Student Developer Champion (among 82 selected across 5 countries)
+- Led technical workshops and mentored 400+ students in DSA and modern tech stacks
+- Built and managed the Open Source Lab community at VVCE
+
+🏆 Key Achievements:
+- Pioneered AI-powered content generation systems improving efficiency by 40%
+- Developed enterprise-grade evaluation systems handling thousands of concurrent users
+- Created Genius - a comprehensive AI SaaS platform with multi-modal generation capabilities
+- Built an innovative ML-based extension for false information detection
+- Secured 2nd place in Karnataka's largest inter-college hackathon (300+ participants)
+
+🌱 Community Initiatives:
+- Organized 20+ technical workshops and developer meetups
+- Mentored students in modern web technologies and cloud computing
+- Founded and grew multiple technical communities from scratch
+- Active contributor to open-source projects and documentation
+- Regular speaker at tech conferences and community events
+
+💡 Areas of Interest:
+- AI/ML Applications in Education
+- Scalable System Architecture
+- Developer Tools and Automation
+- Community Building and DevRel
+- Open Source Development
+- Technical Education
+
+Always excited to explore new technologies, tackle challenging problems, and collaborate with fellow innovators. Whether you're interested in AI development, community building, or creating impactful solutions, I'm always open to meaningful connections and discussions.
+
+📧 Email: bagalaniruddha@gmail.com
+🌐 GitHub: github.com/aniruddhabagal
